@@ -1,0 +1,5 @@
+Package: testimports
+Version: 0.1
+RoxygenNote: 7.1.1
+Imports:
+  glue
